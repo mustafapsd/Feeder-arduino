@@ -17,7 +17,7 @@
 float calibration_factor = -500; // CALIBRATION FACTOR
 float calibration_factor2 = 500; // CALIBRATION FACTOR
 const char* ssid = "6. Kat";
-const char* password = "altincikatinwi-fi";
+const char* password = "xxxxxxxxxxx";
 String url = "http://tranquil-oasis-23659.herokuapp.com";
 
 
